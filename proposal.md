@@ -31,12 +31,9 @@ year = {2021}
 | Typical number of commits per week? | ~15 |
 | Typical commit size | `git log --shortstat` does not work for this repo |
 | How does the project accept contributions? | "The MFEM team welcomes contributions at all levels: bugfixes; code improvements; simplifications; new mesh, discretization or solver capabilities; improved documentation; new examples and miniapps; HPC performance improvements; etc.
-
 MFEM is distributed under the terms of the BSD-3 license. All new contributions must be made under this license.
-
 Note also that MFEM has a Code of Conduct. By participating in the MFEM community, you agree to abide by its rules.
-
-If you plan on contributing to MFEM, consider reviewing the issue tracker first to check if a thread already exists for your desired feature or the bug you ran into. Use a pull request (PR) toward the mfem:master branch to propose your contribution. If you are planning significant code changes or have questions, you may want to open an issue before issuing a PR. In addition to technical contributions, we are also interested in your results and simulation images, which you can share via a pull request in the mfem/web repo."   |
+If you plan on contributing to MFEM, consider reviewing the issue tracker first to check if a thread already exists for your desired feature or the bug you ran into. Use a pull request (PR) toward the mfem:master branch to propose your contribution. If you are planning significant code changes or have questions, you may want to open an issue before issuing a PR. In addition to technical contributions, we are also interested in your results and simulation images, which you can share via a pull request in the mfem/web repo." |
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
 | Are any legal/licensing steps required to contribute? | All new contributions must be made under BSD-3 license. |
